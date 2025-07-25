@@ -114,7 +114,7 @@ Set the following parameters:
 
 ```ini
 spotify_path = /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/active/files/extra/share/spotify/
-prefs_path = ~/.var/app/com.spotify.Client/config/spotify/prefs
+prefs_path = /home/$USER/.var/app/com.spotify.Client/config/spotify/prefs
 ```
 
 3. Grant necessary permissions to modify Spotify files:
