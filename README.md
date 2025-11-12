@@ -38,7 +38,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 ---
 
 ## 2. Install Spotify Version 1.2.53
-Spicetify only works with specific versions of Spotify (1.2.14 -> 1.2.53 for Linux). Follow these steps to install the correct version.
+Spicetify only works with specific versions of Spotify (Just if spicetify isn't compatible with the latest version, check on the official website) Follow these steps to install the correct version.
 
 ### Steps:
 1. Install the latest version of Spotify:
